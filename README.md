@@ -1,5 +1,14 @@
 # ADPAMReport
 Privileged Access Report for Active Directory<BR/><BR/>
+Created by Brad Voris<BR/>
+
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ADPAMReport">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ADPAMReport">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ADPAMReport/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/ADPAMReport">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/ADPAMReport">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/ADPAMReport">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/ADPAMReport">
 PowerShell report for polling Active Directory Domain Services and pulling Privileged Access Management Groups<BR/>
 Domain Admins, Administrators, Eterprise Admins, Schema Admins, Backup Operators are recursively broken out and displayed in an HTML file.<BR/>
 This file contains name, distinguished name, enabled, and last logon date<BR/>
