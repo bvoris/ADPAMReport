@@ -8,6 +8,7 @@ Created by Brad Voris<BR/>
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/ADPAMReport">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/ADPAMReport">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/ADPAMReport">
+
 PowerShell report for polling Active Directory Domain Services and pulling Privileged Access Management Groups<BR/>
 Domain Admins, Administrators, Eterprise Admins, Schema Admins, Backup Operators are recursively broken out and displayed in an HTML file.<BR/>
 This file contains name, distinguished name, enabled, and last logon date<BR/>
