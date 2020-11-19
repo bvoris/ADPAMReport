@@ -1,7 +1,6 @@
 # ADPAMReport
 Privileged Access Report for Active Directory<BR/><BR/>
 Created by Brad Voris<BR/>
-
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ADPAMReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ADPAMReport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ADPAMReport/total">
